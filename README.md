@@ -1,4 +1,4 @@
-# Awesome Oceanography [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Oceanography [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -115,10 +115,10 @@ Oceanography is the scientific study of the ocean, including its physical, chemi
 
 ## Related Awesome Lists
 
-- **[Awesome Climate Change](https://github.com/awesomelistsio/awesome-climate-change)**
-- **[Awesome Sustainability](https://github.com/awesomelistsio/awesome-sustainability)**
-- **[Awesome Environmental Science](https://github.com/awesomelistsio/awesome-environmental-science)**
-- **[Awesome Open Data](https://github.com/awesomelistsio/awesome-open-data)**
+- **[Awesome Climate Change](https://github.com/brandonhimpfen/awesome-climate-change)**
+- **[Awesome Sustainability](https://github.com/brandonhimpfen/awesome-sustainability)**
+- **[Awesome Environmental Science](https://github.com/brandonhimpfen/awesome-environmental-science)**
+- **[Awesome Open Data](https://github.com/brandonhimpfen/awesome-open-data)**
   
 ## Contribute
 
